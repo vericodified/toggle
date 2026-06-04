@@ -21,7 +21,7 @@ body {
   overflow-x: hidden;
   font-family: 'Inter', sans-serif;
   transition: background-color 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-
+}
 .Typewriter p {
   position: absolute;
   top: 0;
